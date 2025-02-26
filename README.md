@@ -37,11 +37,13 @@ Usage Instructions
 1.Diabetes & Heart Disease Prediction
 Upload or input patient data (CSV format).
 The model will predict the likelihood of diabetes or heart disease.
+
 ![Image Description](https://github.com/TanishaChauhan19/Diagnostic-tool/blob/main/Screenshots/app%20img.jpg?raw=true)
 
 2.Pneumonia Detection
 Upload a chest X-ray image.
 The deep learning model (pneumonia_detector.h5) will classify it as normal or pneumonia-positive.
+
  ![Image Description](https://github.com/TanishaChauhan19/Diagnostic-tool/blob/main/Screenshots/app2%20img.jpg?raw=true)
 
 
