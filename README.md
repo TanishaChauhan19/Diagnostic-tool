@@ -19,8 +19,8 @@ Pneumonia Detector: A deep learning model to detect pneumonia from medical image
 
 1. Clone the repository:
 
-git clone https://github.com/TanishaChauhan19/Diagnostic-tool.git
-cd Diagnostic-tool
+       git clone https://github.com/TanishaChauhan19/Diagnostic-tool.git
+       cd Diagnostic-tool
 
 2.Intall the dependenices
 
