@@ -28,6 +28,9 @@ cd Diagnostic-tool
     ```
    streamlit run app.py
 
+Here’s a screenshot of the app:
+
+  ![Image Description]()
 Usage Instructions
 
 1.Diabetes & Heart Disease Prediction
