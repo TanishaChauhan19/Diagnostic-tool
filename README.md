@@ -30,7 +30,7 @@ cd Diagnostic-tool
 
 Here’s a screenshot of the app:
 
-  ![Image Description]()
+  ![Image Description](https://github.com/TanishaChauhan19/Diagnostic-tool/blob/main/app%20img.jpg?raw=true)
 Usage Instructions
 
 1.Diabetes & Heart Disease Prediction
