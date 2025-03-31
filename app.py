@@ -7,10 +7,10 @@ from PIL import Image
 import os
 
 # Load trained models
-heart_model = joblib.load(r"heart_model_path")
-diabetes_model = joblib.load(r"diabetes_model_path")
-diabetes_scaler = joblib.load(r"diabetes_scalar_model_path")
-pneumonia_model = tf.keras.models.load_model(r"pneomonia_model_path")  # Load pneumonia model
+heart_model = joblib.load(r"Heart_disease_model (1).pkl")
+diabetes_model = joblib.load(r"diabetes_model.pkl")
+diabetes_scaler = joblib.load(r"diabetes_scaler.pkl")
+pneumonia_model = tf.keras.models.load_model(r"pneumonia_detector.h5")  # Load pneumonia model
 
 # Pneumonia class labels
 pneumonia_classes = ["Normal", "Pneumonia"]
