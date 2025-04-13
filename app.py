@@ -19,7 +19,7 @@ pneumonia_classes = ["Normal", "Pneumonia"]
 st.title("Multi-Disease Diagnostic Tool 🏥")
 
 # Select disease type
-disease = st.selectbox("Select Disease for Prediction", ["Heart Disease", "Diabetes", "Hepatitis", "Pneumonia"])
+disease = st.selectbox("Select Disease for Prediction", ["Heart Disease", "Diabetes", "Pneumonia"])
 
 # Heart Disease Prediction
 if disease == "Heart Disease":
